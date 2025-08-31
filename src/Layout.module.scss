@@ -1,0 +1,8 @@
+.sidebarAndDataContianer {
+  height: calc(100vh - 65px);
+
+  .dataContainer {
+    overflow-y: auto;
+    flex: 1;
+  }
+}

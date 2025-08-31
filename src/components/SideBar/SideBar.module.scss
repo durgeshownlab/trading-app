@@ -1,0 +1,10 @@
+.sidebarContainer {
+  overflow-y: auto;
+  scrollbar-width: thin;
+
+  .profileDropdown{
+    width: 90%;
+    transform: translateX(0%);
+    margin: 0 auto;
+  }
+}
