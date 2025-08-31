@@ -6,7 +6,18 @@ You can access the live demo of the app at [https://trading-app-zhk2.onrender.co
 
 ## Steps to run this app in local
 
-1. Clone this git repo in your local ``git clone https://github.com/durgeshownlab/trading-app.git``
-2. Navigate to the project directory ``cd trading-app``
-3. Install the dependencies ``npm install``
-4. Start the development server ``npm run dev``
+1. Clone this git repo in your local
+
+```git clone https://github.com/durgeshownlab/trading-app.git```
+
+2. Navigate to the project directory
+
+```cd trading-app```
+
+3. Install the dependencies
+
+```npm install```
+
+4. Start the development server
+
+```npm run dev```
