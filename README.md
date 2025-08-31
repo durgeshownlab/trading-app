@@ -1,23 +1,38 @@
 # Trading App (Frontend)
 
-## This App is hosted on Render
+## 🚀 Live Demo
+This app is hosted on **Render**. Click here to view the live demo 👉 [https://trading-app-zhk2.onrender.com/](https://trading-app-zhk2.onrender.com/)
 
-You can access the live demo of the app at [https://trading-app-zhk2.onrender.com/](https://trading-app-zhk2.onrender.com/).
+---
 
-## Steps to run this app in local
+## 🛠️ Run Locally
 
-1. Clone this git repo in your local
+Follow these steps to run the app on your machine:
 
-```git clone https://github.com/durgeshownlab/trading-app.git```
+### 1. Clone the repository
+```bash
+git clone https://github.com/durgeshownlab/trading-app.git
+```
 
-2. Navigate to the project directory
+### 2. Navigate to the project directory
+```bash
+cd trading-app
+```
 
-```cd trading-app```
+### 3. Install dependencies
+```bash
+npm install
+```
 
-3. Install the dependencies
+### 4. Start the development server
+```bash
+npm run dev
+```
 
-```npm install```
+---
 
-4. Start the development server
-
-```npm run dev```
+## 📦 Tech Stack
+- React
+- Tailwind CSS (with SCSS support)
+- Recharts
+- Vite
