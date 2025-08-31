@@ -3,7 +3,7 @@ import { Route, Routes, useLocation } from 'react-router'
 import Home from '../pages/Home'
 import Layout from '../Layout'
 import NotFound from '../pages/NotFound'
-import Portfolio from '../pages/PortFolio'
+import Portfolio from '../pages/Portfolio'
 
 const AppRouter = () => {
   const location = useLocation()
